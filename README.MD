@@ -25,11 +25,9 @@ See deployment for notes on how to deploy the project on a live system.
 * **Andrii Bondarenko** - [PraydE](https://github.com/PraydE007)
 
 ![](Examples/Screenshot.PNG)
-### No params (Clean)
+### No params (Clean)       Sin X Z
 ![](Examples/GIF_Clean.gif)
-### Sin X Z
 ![](Examples/GIF_SinXZ.gif)
-### Tan X Y Z
+### Tan X Y Z               Cos Z Tan X Z
 ![](Examples/GIF_TanXYZ.gif)
-### Cos Z Tan X Z
 ![](Examples/GIF_CosZTanXZ.gif)
